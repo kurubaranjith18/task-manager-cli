@@ -27,4 +27,4 @@ A Python-based command-line To-Do List Manager that allows you to add, view, com
 
 1. Clone the repository  
 ```bash
-git clone https://github.com/yourusername/task-manager-cli
+git clone https://github.com/kurubaranjith18/task-manager-cli
